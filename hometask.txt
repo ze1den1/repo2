@@ -1,1 +1,6 @@
 Ничем не отличаются. "Contents are identical".
+
+Комментарии из коммитов:
+fix readme
+added hometask.txt
+Merge branch 'boots_buttons'
